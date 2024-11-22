@@ -15,7 +15,4 @@ function main() {
 
 main
 
-#foo | echo "a"
-#echo "bar"
-
 exit 0
